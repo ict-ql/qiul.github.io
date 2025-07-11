@@ -16,7 +16,7 @@ PACT 2025’s artifact evaluation process will follow the [guidelines for artifa
 
 More details of artifact submission will be posted shortly. 
 
-<!--
+
 **Artifact submissions will be due by July 8, 2024**.
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/checklist.md) and submit it to the [single-blind AE process](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
@@ -63,4 +63,3 @@ If you have questions or suggestions, do not hesitate to get in touch with the t
 ##  Preparing your camera-ready paper
 
 If you have successfully passed AE with at least one reproducibility badge, you will need to add up to 2 pages of your artifact appendix to your camera ready paper while removing all unnecessary or confidential information. This will help readers better understand what was evaluated and how.
--->
